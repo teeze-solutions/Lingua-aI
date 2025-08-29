@@ -85,19 +85,6 @@ Contemporary discourse surrounding AI cognition is often encumbered by:
 
 ---
 
-## Related Frameworks and Concepts
-
-This terminology system is designed to complement and integrate with other paradigms.
-
-> ### From Theory to Practice
-> While *Lingua ad Intellegendum* provides a scholarly vocabulary to **describe** AI phenomena, the ***TeeZe Prompting System (TPS)*** is our practical framework to **interact** with them.
->
-> TPS is a methodology and toolkit for systematic AI interaction, designed to improve the clarity, reliability, and ethical alignment of human-AI communication. It serves as a hands-on implementation of many of the principles described in this taxonomy.
->
-> **[Check out the TeeZe Prompting System repository here.](https://github.com/teeze-solutions/TPS)**
-
----
-
 ## How to Use This Taxonomy
 
 #### In Academic Research
@@ -112,36 +99,40 @@ This terminology system is designed to complement and integrate with other parad
 
 ---
 
-## Contributing
+## Community & Contribution
 
-We actively encourage contributions to broaden and refine this taxonomy.
-*   **Propose New Terms:** For newly observed AI behaviors not yet classified.
-*   **Refine Definitions:** Suggest improvements to existing terms for enhanced precision.
-*   **Share Usage Examples:** Provide instances where these terms have been successfully applied.
+This taxonomy is a living document, shaped by community consensus. We invite all knowledgeable practitioners and researchers to help us build and refine this lexicon.
 
-#### Contribution Protocol
-1.  Adhere to Latin naming conventions.
-2.  Provide clear definitions grounded in observable phenomena.
-3.  Prioritize empirical observation over speculative analogies.
-4.  Submit contributions via a Pull Request.
+*   **🤝 How to Contribute:** Our contribution process is designed for collaborative, evidence-based debate. Please read our **[Contributing Guide](CONTRIBUTING.md)** to get started.
+*   **🔬 Terms Under Review:** We maintain a list of **[Terms Under Review](TERMS_UNDER_REVIEW.md)** that are currently being debated for inclusion. Join the discussion and help validate these new concepts.
+*   **💬 General Discussions:** For broader conversations about the project, please visit our **[GitHub Discussions](https://github.com/teeze-solutions/Lingua-aI/discussions)**.
+
+All participation is governed by our **[Code of Conduct](CODE_OF_CONDUCT.md)**.
+
+---
+
+## Related Frameworks and Concepts
+
+This terminology system is designed to complement and integrate with other paradigms.
+
+> ### From Theory to Practice
+> While *Lingua ad Intellegendum* provides a scholarly vocabulary to **describe** AI phenomena, the ***TeeZe Prompting System (TPS)*** is our practical framework to **interact** with them.
+>
+> TPS is a methodology and toolkit for systematic AI interaction, designed to improve the clarity, reliability, and ethical alignment of human-AI communication. It serves as a hands-on implementation of many of the principles described in this taxonomy.
+>
+> **[Check out the TeeZe Prompting System repository here.](https://github.com/teeze-solutions/TPS)**
 
 ---
 
 ## Citation
 
 When referencing this terminology in academic or professional work, please cite:
-> *Lingua ad Intellegendum: A Latin Taxonomy for LLM Cognitive Phenomena.* (2025). TeeZe Solutions LLC. [Link to this repository]
+> *Lingua ad Intellegendum: A Latin Taxonomy for LLM Cognitive Phenomena.* (2025). TeeZe Solutions LLC. [https://github.com/teeze-solutions/Lingua-aI](https://github.com/teeze-solutions/Lingua-aI)
 
 ---
 
 ## License
 
-MIT License
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 Copyright (c) 2025 TeeZe Solutions, LLC
-
-Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
