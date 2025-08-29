@@ -85,6 +85,19 @@ Contemporary discourse surrounding AI cognition is often encumbered by:
 
 ---
 
+## Related Frameworks and Concepts
+
+This terminology system is designed to complement and integrate with other paradigms.
+
+> ### From Theory to Practice
+> While *Lingua ad Intellegendum* provides a scholarly vocabulary to **describe** AI phenomena, the ***TeeZe Prompting System (TPS)*** is our practical framework to **interact** with them.
+>
+> TPS is a methodology and toolkit for systematic AI interaction, designed to improve the clarity, reliability, and ethical alignment of human-AI communication. It serves as a hands-on implementation of many of the principles described in this taxonomy.
+>
+> **[Check out the TeeZe Prompting System repository here.](https://github.com/teeze-solutions/TPS)**
+
+---
+
 ## How to Use This Taxonomy
 
 #### In Academic Research
